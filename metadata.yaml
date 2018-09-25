@@ -1,5 +1,8 @@
 _repo: Proses-moroses_57712
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 57712-h/images/cover.jpg
 creator:
   author:
     agent_name: Gourmont, Remy de
@@ -20,6 +23,8 @@ creator:
     - http://en.wikipedia.org/wiki/R%C3%A9my_de_Gourmont
     - http://fr.wikipedia.org/wiki/Remy_de_Gourmont
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/57712#Proses-moroses
 gutenberg_bookshelf:
 - FR Littérature
 - FR Nouveautés
